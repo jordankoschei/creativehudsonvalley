@@ -2,7 +2,7 @@
 <html lang="en">
   {% include head.html %}
 
-  <body class="bg-stone-50">
+  <body class="bg-stone-50 antialiased">
     {% include header.html %} {% assign top_post = site.posts.first %} {% assign
     slug_title = top_post.title | slugify %} {% if top_post.hero %} {% assign
     top_image = site.url | append: "/assets/img/" | append: top_post.hero %} {%

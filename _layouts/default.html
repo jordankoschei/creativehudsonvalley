@@ -121,7 +121,9 @@
                 />
               </svg>
 
-              <span class="hidden md:inline">{{ page.previous.title }}</span>
+              <span class="hidden md:inline leading-tight"
+                >{{ page.previous.title }}</span
+              >
               <span class="md:hidden">Previous</span>
             </a>
             {% else %}
@@ -131,7 +133,9 @@
               href="{{ page.next.url }}"
               class="flex gap-2 no-underline font-sans font-medium text-teal-600 items-center"
             >
-              <span class="hidden md:inline">{{ page.next.title }}</span>
+              <span class="hidden md:inline text-right leading-tight"
+                >{{ page.next.title }}</span
+              >
               <span class="md:hidden">Next</span>
               <svg
                 xmlns="http://www.w3.org/2000/svg"
