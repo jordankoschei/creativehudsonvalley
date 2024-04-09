@@ -23,7 +23,7 @@ I spoke to Al as she was driving to a show in Vermont, midway through her latest
 
 The Hudson Valley is where I call home; I live in Kingston.
 
-I grew up in Baltimore and I had no idea what the Hudson Valley was. But moving here, I've created such a beautiful deep community and I've totally fallen in loe with the Hudson Valley.
+I grew up in Baltimore and I had no idea what the Hudson Valley was. But moving here, I've created such a beautiful deep community and I've totally fallen in love with the Hudson Valley.
 
 I lived in Beacon for one year and Kingston for the rest, and it feels like the first place I've ever lived since living in Maryland that I can call home.
 
@@ -39,7 +39,7 @@ I moved to the Hudson Valley initially to join a band. I lived in Beacon for one
 
 [Rough Draft](https://www.roughdraftny.com/) is truly my favorite coffee shop in the entire country. I've been everywhere, and it's my favorite place to go.
 
-I love [Camp Kingston](https://www.campkingston.com/). It's a new place for all kinds of artistic, beautiful projects and fod and coffee and snacks and community.
+I love [Camp Kingston](https://www.campkingston.com/). It's a new place for all kinds of artistic, beautiful projects and food and coffee and snacks and community.
 
 I love [Lovefield Vintage](https://www.lovefieldvintage.com/), I love [Chleo](https://www.chleovin.com/) wine bar, I love [Stockade Tavern](https://www.stockadetavern.com/), I love [Brunette](https://www.brunettewinebar.com/) wine bar down in the Rondout.
 
