@@ -1533,10 +1533,6 @@ a {
   margin-left: 0.25rem;
 }
 
-.ml-2 {
-  margin-left: 0.5rem;
-}
-
 .ml-3 {
   margin-left: 0.75rem;
 }
@@ -1557,6 +1553,10 @@ a {
   margin-top: 0.5rem;
 }
 
+.mt-3 {
+  margin-top: 0.75rem;
+}
+
 .mt-6 {
   margin-top: 1.5rem;
 }
@@ -1567,14 +1567,6 @@ a {
 
 .mt-auto {
   margin-top: auto;
-}
-
-.mt-4 {
-  margin-top: 1rem;
-}
-
-.mt-3 {
-  margin-top: 0.75rem;
 }
 
 .block {
@@ -1633,6 +1625,10 @@ a {
   height: 3rem;
 }
 
+.h-4 {
+  height: 1rem;
+}
+
 .h-5 {
   height: 1.25rem;
 }
@@ -1653,16 +1649,16 @@ a {
   height: 100%;
 }
 
-.h-4 {
-  height: 1rem;
-}
-
 .min-h-96 {
   min-height: 24rem;
 }
 
 .w-12 {
   width: 3rem;
+}
+
+.w-4 {
+  width: 1rem;
 }
 
 .w-5 {
@@ -1679,10 +1675,6 @@ a {
 
 .w-full {
   width: 100%;
-}
-
-.w-4 {
-  width: 1rem;
 }
 
 .max-w-4xl {
